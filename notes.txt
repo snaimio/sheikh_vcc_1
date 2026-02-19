@@ -1,0 +1,2 @@
+This is my some text added into this text file. So that it is not emprty anymore and it indicates this file has been modified.
+This is my third commit for the VCC assignment 1.
